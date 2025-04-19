@@ -1,0 +1,24 @@
+multi-tools/
+├── index.html
+├── assets/
+│   ├── css/
+│   │   ├── main.css
+│   │   └── tools.css
+│   └── js/
+│       ├── main.js
+│       ├── header-footer.js
+│       └── search.js
+├── tools/
+│   ├── image-to-png.html
+│   ├── word-counter.html
+│   ├── json-formatter.html
+│   ├── bmi-calculator.html
+│   ├── password-generator.html
+│   ├── youtube-thumbnail.html
+│   ├── qr-code-generator.html
+│   ├── age-calculator.html
+│   ├── base64-encoder.html
+│   └── currency-converter.html
+└── components/
+    ├── header.html
+    └── footer.html
